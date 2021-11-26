@@ -19,6 +19,9 @@ An RGB LED is a combination of three different kinds of LED in one package, name
 
 In contrast to a normal LED that has 2(two)-terminals. An RGB LED has 4(four) terminals, of which three terminals represents three different colours- `RED`, `GREEN` & `BLUE`. And, the 4<sup>th</sup>(fourth) one represents the `GND` terminal. By combining these three colours, we can produce around 16 million hues of light.
 
+[![Generic RGB LED](https://github.com/WittyDimension/rgbControl_6switches/raw/main/images/rgb-led.png)](#features)
+*`Fig:` Generic Pic of an **RGB** LED (common Cathode)*
+
 ### Problem Statement
 
 Imagine You have the following parts with you - 
@@ -59,4 +62,6 @@ For our case, `1.8V` * `4` = `7.2V`, as the BMS chip was mentioned as `1.8V`.
 Here the Analog Pin `A0` is used to read the battery percentage value.
 
 
+
 [![My Designed Circuit in TinkerCAD](https://github.com/WittyDimension/rgbControl_6switches/raw/main/images/ckt_diagram.png)](#features)
+*                                  The circuit diagram is generated using `TinkerCAD`*
