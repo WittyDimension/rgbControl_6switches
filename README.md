@@ -79,7 +79,7 @@ The circuit diagram is generated using [TinkerCAD](https://www.tinkercad.com/).
 
 ___________________
 
-### Intallation
+### Installation
 
 There is nothing to install there. Just download the file and upload it to your Arduino Uno. Connect the circuit according to the circuit diagram(*above*). And Voila! :v: It works.
 
